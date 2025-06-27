@@ -8,7 +8,7 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'es'
 
 THEME = 'themes/monospace-gruvbox'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'CNAME']
 PAGE_PATHS = ['.']
 
 ARTICLE_PATHS = []
