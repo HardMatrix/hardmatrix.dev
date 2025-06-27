@@ -1,0 +1,46 @@
+body {
+    background-color: #282828;
+    color: #ebdbb2;
+    font-family: 'Fira Mono', monospace;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    text-align: center;
+    max-width: 600px;
+    padding: 2rem;
+}
+
+h1, h2, h3 {
+    color: #fabd2f;
+    margin-top: 1rem;
+    font-size: 2.2rem;
+}
+
+p {
+    margin: 1.2rem 0;
+}
+
+a {
+    color: #fabd2f;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto 2rem auto;
+}
