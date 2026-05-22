@@ -6,4 +6,4 @@ Save_as: index.html
 No magic. Just **logic**
 
 📧 info@hardmatrix.dev  
-🐙 [GitHub](https://github.com/hardmatrix) | 📣 [Twitter](https://x.com/hardmatrix)
+🐙 [GitHub](https://github.com/hardmatrix) | 📣 [Twitter](https://x.com/hardmatrixdev)
